@@ -1,0 +1,8 @@
+{
+  "name": "Link Checker & HTTPS Checker",
+  "description": "A high-performance link checking dashboard to monitor availability, latency, and security status of 600+ HTTPS links.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
